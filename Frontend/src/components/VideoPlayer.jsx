@@ -5,3 +5,4 @@ const VideoPlayer = ({ src }) => {
 };
 
 export default VideoPlayer;
+
